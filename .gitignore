@@ -2,7 +2,11 @@
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
-## API Keys
+.DS_Store
+*/.DS_Store
+*.mlmodel
+
+## Config
 Twittermenti/Secrets.swift
 Secrets.swift
 
